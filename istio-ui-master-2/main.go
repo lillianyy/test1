@@ -1,10 +1,10 @@
 package main
 
 import (
-	_ "github.com/jukylin/istio-ui/routers"
+	_ "github.com/lillion-y/test1/tree/master/istio-ui-master-2/src/routers"
 	"github.com/astaxie/beego"
-	"github.com/jukylin/istio-ui/models"
-	"github.com/jukylin/istio-ui/pkg"
+	"github.com/lillion-y/test1/tree/master/istio-ui-master-2/src/models"
+	"github.com/lillion-y/test1/tree/master/istio-ui-master-2/src/pkg"
 )
 
 func main() {

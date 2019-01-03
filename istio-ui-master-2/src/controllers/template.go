@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"github.com/astaxie/beego"
-	"github.com/jukylin/istio-ui/pkg"
+	"github.com/lillion-y/test1/tree/master/istio-ui-master-2/src/pkg"
 )
 
 type TemplateController struct {

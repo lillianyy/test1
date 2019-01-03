@@ -1,4 +1,4 @@
-package: github.com/jukylin/istio-ui
+package: github.com/lillion-y/test1/tree/master/istio-ui-master-2
 import:
 - package: github.com/astaxie/beego
 - package: github.com/ghodss/yaml

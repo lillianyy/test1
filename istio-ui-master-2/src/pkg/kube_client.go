@@ -3,7 +3,7 @@ package pkg
 import (
 	"k8s.io/client-go/kubernetes"
 	"k8s.io/client-go/tools/clientcmd"
-	"github.com/jukylin/istio-ui/pkg/config/kube/crd"
+	"github.com/lillion-y/test1/tree/master/istio-ui-master-2/src/pkg/config/kube/crd"
 	istiomodel "istio.io/istio/pilot/pkg/model"
 	"github.com/astaxie/beego"
 )
