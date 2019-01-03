@@ -3,7 +3,7 @@ package controllers
 import (
 	"github.com/astaxie/beego"
 	"istio.io/istio/pilot/pkg/config/kube/crd"
-	"github.com/lillion-y/test1/tree/master/istio-ui-master-2/src/pkg"
+	"github.com/jukylin/istio-ui/pkg"
 	istiomodel "istio.io/istio/pilot/pkg/model"
 )
 

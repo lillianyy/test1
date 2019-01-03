@@ -8,7 +8,7 @@
 package routers
 
 import (
-	"github.com/lillion-y/test1/tree/master/istio-ui-master-2/src/controllers"
+	"github.com/jukylin/istio-ui/controllers"
 
 	"github.com/astaxie/beego"
 )

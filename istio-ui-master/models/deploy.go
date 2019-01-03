@@ -2,7 +2,7 @@ package models
 
 import (
 	"time"
-	"github.com/lillion-y/test1/tree/master/istio-ui-master-2/src/pkg"
+	"github.com/jukylin/istio-ui/pkg"
     "github.com/json-iterator/go"
 )
 
